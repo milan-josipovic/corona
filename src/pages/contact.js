@@ -34,7 +34,7 @@ const ContactPage = () => {
               className="block w-full px-4 py-3 mb-3 leading-tight text-gray-700 bg-gray-200 border rounded appearance-none focus:outline-none focus:bg-white"
               id="grid-first-name"
               type="text"
-              placeholder="Jane"
+              placeholder="Petar"
               name="first_name"
             />
             <p className="text-xs italic text-red-500"></p>
@@ -50,7 +50,7 @@ const ContactPage = () => {
               className="block w-full px-4 py-3 leading-tight text-gray-700 bg-gray-200 border border-gray-200 rounded appearance-none focus:outline-none focus:bg-white focus:border-gray-500"
               id="grid-last-name"
               type="text"
-              placeholder="Doe"
+              placeholder="Petrovic"
               name="last_name"
             />
           </div>

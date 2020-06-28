@@ -54,6 +54,7 @@
   "scripts": {
     "setup": "node bin/setup",
     "build": "node get-countries.js && gatsby build",
-    "develop": "node get-countries.js && gatsby develop"
+    "develop": "node get-countries.js && gatsby develop",
+    "test":"gatsby develop"
   }
 }
